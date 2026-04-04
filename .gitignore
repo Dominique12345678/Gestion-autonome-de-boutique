@@ -1,0 +1,4 @@
+# Mpn environnement virtuel
+env/
+# Mon .env
+.env
