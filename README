@@ -1,0 +1,9 @@
+Contexte & Objectif
+Le projet vise à concevoir et développer une application de gestion de boutique enrichie par un système multi-agents basé sur l'intelligence artificielle. Contrairement à un CRUD classique, les agents IA interagissent entre eux pour automatiser les décisions métier en temps réel.
+
+Vision
+Construire une application intelligente et démonstrative, capable de :
+•	Gérer de manière autonome les interactions clients via WhatsApp
+•	Surveiller et anticiper les ruptures de stock
+•	Analyser les ventes et produire des insights actionnables
+•	Déclencher des actions combinées entre agents (ex. stock faible → promo → ajustement financier)
